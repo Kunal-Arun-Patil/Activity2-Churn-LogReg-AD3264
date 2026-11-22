@@ -1,7 +1,9 @@
 # Activity 2: Binary Classification – Telecom Customer Churn (Logistic Regression)
 
 **Course:** Regression and Classification Algorithms | **CIE 2 – Activity 2** | Unit II – Classification & Logistic Regression
+
 **Student:** Kunal Arun Patil | **Roll No.:** AD3264
+
 **Submission GitHub ID:** [https://github.com/complexiota](https://github.com/complexiota)
 
 ## Activity description
